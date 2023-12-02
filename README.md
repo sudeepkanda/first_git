@@ -10,5 +10,8 @@ while upadating we can comment why we are updation / changing
 </br>git --config "list" ----->>> gives details of username and email
 </br>git clone github project link(https copy and past here after clone key word)
 </br>(cd --->> change directory (to move from one folder to another folder), tab ---> auto complete, clear to clear the command ,ls -->> lift all files from that folder/directory)
-</br>git status -->> to check code is up to date and is it modified recently and not updated
-
+</br>git status -->> to check code is up to date or is it modified recently and not updated or added a new file in git but not github
+</br> 1.untracked
+</br> 2. modified
+</br> 3.staged
+</br> 4. unmodifed
