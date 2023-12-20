@@ -14,4 +14,4 @@ while upadating we can comment why we are updation / changing
 </br> 1.untracked
 </br> 2. modified
 </br> 3.staged
-</br> 4. unmodifed
+</br> 4. unmodified
